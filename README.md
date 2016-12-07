@@ -1,9 +1,10 @@
 # hello-world
-Another repository for a try
+Another repository  
 
 
 
 hi friends,
-its new beginning, why not start off...
+its new beginning,  good year ahead0....
+work hard study hard
 
 
