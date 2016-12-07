@@ -1,2 +1,7 @@
 # hello-world
-Just another repository
+another repository
+
+
+
+hi friends,
+its new beginning, why not start off...
